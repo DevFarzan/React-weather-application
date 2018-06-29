@@ -26664,7 +26664,7 @@
 	      React.createElement(
 	        'h3',
 	        null,
-	        'About component'
+	        'About component!'
 	      )
 	    );
 	  }
